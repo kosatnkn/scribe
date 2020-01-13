@@ -8,3 +8,4 @@
 - [Building Desktop App in Go using Wails](https://www.youtube.com/watch?v=Dg9rUXxNV-c)
 - [GopherCon 2019: Elias Naur - Portable, Immediate Mode GUI Programs for Mobile and Desktop in 100% Go](https://www.youtube.com/watch?v=9D6eWP4peYM)
 - [Gio](https://gioui.org/)
+- [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
