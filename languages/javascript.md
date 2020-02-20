@@ -20,3 +20,4 @@ const:
 - [Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 - [Async-Await](https://javascript.info/async-await)
 - [The Async Await Episode I Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)
+- [The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await](https://www.youtube.com/watch?v=gB-OmN1egV8)
