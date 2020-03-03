@@ -21,3 +21,4 @@ const:
 - [Async-Await](https://javascript.info/async-await)
 - [The Async Await Episode I Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)
 - [The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await](https://www.youtube.com/watch?v=gB-OmN1egV8)
+- [JavaScript Testing Introduction Tutorial - Unit Tests, Integration Tests & e2e Tests](https://www.youtube.com/watch?v=r9HdJ8P6GQI)
