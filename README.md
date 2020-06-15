@@ -5,6 +5,7 @@
 ### Articles
 - [Clean Architecture](./articles/clean_architecture.md)
 - [Microservices](./articles/microservices.md)
+- [OAuth](./articles/oauth.md)
 
 ### Languages
 - [Golang](./languages/go.md)
